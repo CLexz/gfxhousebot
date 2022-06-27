@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^7.5.3",
+    "discord-html-transcripts": "^2.5.8",
+    "discord.js": "^13.8.1",
+    "fs": "^0.0.1-security",
+    "quick.db": "^9.0.4"
+  },
+  "name": "discordnbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "scripts": {
+    "nodemon": "nodemon ticketpanel.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
